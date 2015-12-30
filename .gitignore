@@ -1,2 +1,3 @@
 NodeJS/bin/**
 NodeJS/obj/**
+NodeJS/node_modules/**
